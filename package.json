@@ -1,6 +1,7 @@
 {
   "name": "marlowe-sdk-node",
   "version": "0.0.1",
+  "main": "./index.js",
   "description": "Node.js SDK for our Marlowe API",
   "repository": {
     "url": "https://github.com/Relink/marlowe-sdk-node"
