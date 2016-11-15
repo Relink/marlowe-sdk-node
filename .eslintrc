@@ -1,0 +1,43 @@
+{
+  "extends": "eslint:recommended",
+  "parser": "babel-eslint",
+  "env": {
+    "es6": true,
+    "browser": true,
+    "jasmine": true,
+    "node": true,
+    "mocha": true
+  },
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "blockBindings": true,
+    "classes": true,
+    "defaultParams": true,
+    "destructuring": true,
+    "forOf": true,
+    "generators": true,
+    "modules": true,
+    "spread": true,
+    "templateStrings": true,
+    "jsx": true
+  },
+  "rules": {
+    "max-len": [1, 120, 2, {ignoreComments: true}],
+    "quote-props": [1, "consistent-as-needed"],
+    "no-cond-assign": [2, "except-parens"],
+    "radix": 0,
+    "space-infix-ops": 0,
+    "no-unused-vars": [1, {"vars": "local", "args": "none"}],
+    "default-case": 0,
+    "no-else-return": 0,
+    "no-param-reassign": 0,
+    "quotes": 0,
+    "semi": [1, "always"],
+    "eol-last": [1],
+    "no-mixed-requires": [0],
+    "no-underscore-dangle": [0],
+    "no-undef": 1,
+    "no-undef-init": 1,
+    "no-undefined": 1
+  }
+}
