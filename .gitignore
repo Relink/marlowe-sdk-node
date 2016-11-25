@@ -4,3 +4,5 @@
 .env
 .vscode
 .DS_Store
+apidocs
+deploy.sh
