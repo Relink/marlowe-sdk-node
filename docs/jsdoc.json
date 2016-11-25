@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "plugins/markdown"
+  ],
+  "templates": {
+    "linenums": true,
+    "outputSourceFiles": false,
+    "outputSourcePath": true,
+    "systemName": "Marlowe Node.js SDK",
+    "theme": "cosmo",
+    "copyright": "&copy; Relink"
+  }
+}
