@@ -17,7 +17,7 @@ npm install relink-marlowe
 ## Documentation
 To see a full list REST API resources, please visit the [Marlowe API documentation](https://docs.relinklabs.com/marlowe/ "Marlowe API documentation").
 
-This SDK is fully documented with JsDoc. A Live version of the documentation can be found here: [Marlowe Node.js SDK documentation](https://sdk.relinklabs.com/marlowe/nodejs/ "Marlowe Node.js SDK documentation").
+This SDK is fully documented with JsDoc. A Live version of the documentation can be found here: [Marlowe Node.js SDK documentation](https://docs.relinklabs.com/sdk/marlowe/nodejs/ "Marlowe Node.js SDK documentation").
 
 You can build the documentation by running `npm run docs`.
 
